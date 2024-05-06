@@ -1,1 +1,1 @@
-# Variant-discovery
+PathVar for variant discovery
