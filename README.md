@@ -12,3 +12,10 @@ The following tools are required to use PathVar
 * ANNOVAR
 * Tapes
 * Bcftools
+
+Coming soon:
+* Variant calling script
+* Variant annotation and filtration script
+* Variant pathogenicity prediction script
+* Concordant variant extraction script
+* Copy number variation detection script (CNVkit + gCNV)
