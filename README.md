@@ -1,5 +1,6 @@
 # PathVar (Pathogenic Variant Calling Pipeline)
 This repository contains the only version of PathVar
+![image](https://github.com/Mohammed-Alfayyadh/Pathogenic-variant-calling-pipeline-PathVar-/assets/82655928/56a16ddf-6f23-4510-847e-cf52787add87)
 
 # Disclaimer
 
