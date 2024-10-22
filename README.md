@@ -14,8 +14,7 @@ The following tools are required to use PathVar
 * Bcftools
 
 Coming soon:
-* Variant calling script
-* Variant annotation and filtration script
-* Variant pathogenicity prediction script
-* Concordant variant extraction script
-* Copy number variation detection script (CNVkit + gCNV)
+* Detailed explanation to implement PathVar
+
+* Please cite this work as << Alfayyadh MM, Maksemous N, Sutherland HG, Lea RA, Griffiths LR. PathVar: A Customisable NGS Variant Calling Algorithm Implicates Novel Candidate Genes and Pathways in Hemiplegic Migraine. Clinical Genetics. 2024.>>
+https://onlinelibrary.wiley.com/doi/10.1111/cge.14625  
